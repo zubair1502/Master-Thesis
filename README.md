@@ -11,7 +11,7 @@ Framework for automatic human and object annotation in from the scene in the for
 
 Framework is based on C++ and the following libraries I used:
 
-- OpenCv 3.4.3 (for 2D image processing)
+- OpenCV 3.4.3 (for 2D image processing)
 
 - PCL 1.8 (for 3D pointcloud processing)
 
