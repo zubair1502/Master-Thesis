@@ -9,4 +9,8 @@ Framework for automatic human and object annotation in from the scene in the for
 
 - The framework was designed to work in the industrial environment whereas, industrial environment is different from normal environment. Different lighting condition, presence of robot, different obstacls, reflections, asymmetric backgrounds etc.
 
-- 
+Framework is based on C++ and the following libraries I used:
+-OpenCv 3.4.3 (for 2D image processing)
+-PCL 1.8 (for 3D pointcloud processing)
+
+
