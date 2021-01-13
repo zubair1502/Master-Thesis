@@ -1,5 +1,5 @@
 # Master-Thesis
-Framework for automatic human and object annotation in from the scene in the form of 3D point based Pointcloud
+Framework for automatic human and object annotation from the scene in the form of 3D Pointcloud
 
 **Note: There is no coding in this repo since I was not allowed to showcase my code. This will only include the overview of my project with the complete workflow.** 
       
@@ -18,3 +18,10 @@ Framework is based on C++ and the following libraries I used:
 **Framework design**
 
 ![](Images/workflow.JPG)
+
+- This whole process was a part of a giant project in the step of Industry automization. 
+
+- Main target was to detect the human in the scene. since the end goal is to train the AI algorithm that will detect the human in the scene(3D pointcloud) and localize it so that   it can behave according to its position. If the human is in the range where is can collide with robot if the robot move in that direction then robot will behave according to       define rule. 
+
+- The future steps of this project was to make robot able to not just human detection but also to identify human limbs so that it can interect with human in the production           sector. Thats why human localisation was important.
+ 
