@@ -16,4 +16,5 @@ Framework is based on C++ and the following libraries I used:
 - PCL 1.8 (for 3D pointcloud processing)
 
 **Framework design**
-![](Images/workflow.png)
+
+![](Images/workflow.JPG)
